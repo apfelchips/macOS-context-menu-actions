@@ -26,6 +26,6 @@ indent_size = 8
 [*.{bat,reg,vbs}]
 end_of_line = crlf
 
-[.reg]
+[*.reg]
 charset = utf-16le
 #charset = utf-16le-bom # not supported
