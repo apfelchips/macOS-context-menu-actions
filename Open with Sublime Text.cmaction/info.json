@@ -1,0 +1,16 @@
+{
+  "path" : "\/bin\/sh",
+  "options" : {
+    "acceptDirs" : true,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false,
+    "showOutput" : false
+  },
+  "icon" : "icon.icns",
+  "dependencies" : [
+    "\/usr\/local\/bin\/subl"
+  ],
+  "name" : "Open with Sublime Text",
+  "type" : "shell"
+}

@@ -1,0 +1,12 @@
+{
+  "path" : "\/bin\/bash",
+  "options" : {
+    "acceptDirs" : true,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false,
+    "showOutput" : false
+  },
+  "type" : "shell",
+  "name" : "New File"
+}

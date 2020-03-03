@@ -1,0 +1,5 @@
+# doku: https://git-scm.com/docs/gitignore
+# examples: https://www.gitignore.io/
+
+*.DS_Store
+menu.plist

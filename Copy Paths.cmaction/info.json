@@ -1,0 +1,12 @@
+{
+  "path" : "\/bin\/bash",
+  "options" : {
+    "acceptDirs" : true,
+    "acceptFiles" : true,
+    "noSandbox" : false,
+    "confirmExecution" : false,
+    "showOutput" : false
+  },
+  "type" : "shell",
+  "name" : "Copy Path(s)"
+}

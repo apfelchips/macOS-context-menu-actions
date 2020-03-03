@@ -1,0 +1,17 @@
+{
+  "path" : "/bin/bash",
+  "options" : {
+    "acceptFiles" : true,
+    "minFiles" : 1,
+    "showOutput" : false,
+    "maxFiles" : 2,
+    "acceptDirs" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false
+  },
+  "dependencies" : [
+    "/usr/local/bin/bcomp"
+  ],
+  "type" : "shell",
+  "name" : "Compare using BeyondCompare"
+}

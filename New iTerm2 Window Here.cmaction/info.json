@@ -1,0 +1,15 @@
+{
+  "path" : "\/bin\/sh",
+  "options" : {
+    "acceptDirs" : true,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false,
+    "showOutput" : false
+  },
+  "dependencies" : [
+    "\/Applications\/iTerm.app"
+  ],
+  "type" : "shell",
+  "name" : "New iTerm2"
+}

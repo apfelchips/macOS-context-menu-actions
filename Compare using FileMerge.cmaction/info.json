@@ -1,0 +1,17 @@
+{
+  "path" : "\/bin\/bash",
+  "options" : {
+    "acceptDirs" : true,
+    "minFiles" : 2,
+    "showOutput" : false,
+    "maxFiles" : 2,
+    "confirmExecution" : false,
+    "noSandbox" : true,
+    "acceptFiles" : true
+  },
+  "dependencies" : [
+    "\/Applications\/Xcode.app\/Contents\/Developer\/usr\/bin\/opendiff"
+  ],
+  "type" : "shell",
+  "name" : "Compare using FileMerge"
+}

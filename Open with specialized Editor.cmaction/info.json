@@ -1,0 +1,13 @@
+{
+  "path" : "\/bin\/sh",
+  "options" : {
+    "acceptDirs" : false,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false,
+    "showOutput" : false
+  },
+  "icon" : "icon.icns",
+  "name" : "Open with specialized Editor",
+  "type" : "shell"
+}

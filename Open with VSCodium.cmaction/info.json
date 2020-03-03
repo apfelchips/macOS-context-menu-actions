@@ -1,0 +1,16 @@
+{
+  "path" : "\/bin\/sh",
+  "options" : {
+    "acceptDirs" : true,
+    "acceptFiles" : true,
+    "noSandbox" : true,
+    "confirmExecution" : false,
+    "showOutput" : false
+  },
+  "icon" : "icon.icns",
+  "dependencies" : [
+    "\/usr\/local\/bin\/code"
+  ],
+  "name" : "Open with VSCodium",
+  "type" : "shell"
+}

@@ -1,0 +1,8 @@
+{
+  "path" : "\/Applications\/TextEdit.app",
+  "options" : {
+    "acceptFiles" : true
+  },
+  "type" : "application",
+  "name" : "Open with TextEdit"
+}

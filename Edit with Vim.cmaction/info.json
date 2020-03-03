@@ -1,0 +1,9 @@
+{
+  "path" : "\/bin\/bash",
+  "type" : "shell",
+  "name" : "Edit with Vim",
+  "options" : {
+    "acceptFiles" : true,
+    "noSandbox" : true
+  }
+}
