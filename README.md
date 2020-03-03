@@ -1,3 +1,5 @@
 # ContextMenu Actions
 
-<https://apps.apple.com/us/app/context-menu/id1236813619?l=en&mt=12>
+<https://langui.net/context-menu/>
+
+<https://apps.apple.com/us/app/context-menu/id1236813619>
