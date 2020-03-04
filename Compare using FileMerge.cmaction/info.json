@@ -1,7 +1,7 @@
 {
   "path" : "\/bin\/bash",
   "options" : {
-    "acceptDirs" : true,
+    "acceptDirs" : false,
     "minFiles" : 2,
     "showOutput" : false,
     "maxFiles" : 2,
