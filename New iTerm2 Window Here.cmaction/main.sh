@@ -15,7 +15,7 @@ tell application "iTerm"
   tell the current window
     activate current session
     tell current session
-	  write text "cd " & current_dir & "; clear"
+	  write text " cd " & current_dir & "; clear"
     end tell
   end tell
 end tell
