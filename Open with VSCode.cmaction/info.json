@@ -11,6 +11,6 @@
   "dependencies" : [
     "\/usr\/local\/bin\/code"
   ],
-  "name" : "Open with VSCodium",
+  "name" : "Open with VSCode",
   "type" : "shell"
 }
